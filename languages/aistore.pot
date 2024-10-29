@@ -1,0 +1,252 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Loco Demo\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-02 12:41+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Loco-Source-Locale: hi_IN\n"
+"X-Generator: Loco https://localise.biz/"
+
+msgid "Hello World"
+msgstr ""
+
+# Example comment
+#. Example pluralized message
+#, php-format
+msgid "An example"
+msgid_plural "%s examples"
+msgstr[0] ""
+msgstr[1] ""
+
+
+
+msgid "Title"
+msgstr ""
+
+msgid "Product Type"
+msgstr ""
+
+msgid "Category"
+msgstr ""
+
+msgid "Tags"
+msgstr ""
+
+msgid "Short Description"
+msgstr ""
+
+msgid "Full Description"
+msgstr ""
+
+msgid "Terms and conditions"
+msgstr ""
+
+msgid "Sorry, your nonce did not verify"
+msgstr ""
+
+msgid "Submit"
+msgstr ""
+
+msgid "Product List"
+msgstr ""
+
+msgid "Product List Not Found"
+msgstr ""
+
+msgid "Id"
+msgstr ""
+
+msgid "Amount"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Date"
+msgstr ""
+
+msgid "Add Product"
+msgstr ""
+
+msgid "Order List"
+msgstr ""
+
+
+
+
+
+msgid "Order"
+msgstr ""
+
+msgid "Product Name"
+msgstr ""
+
+msgid "Order details"
+msgstr ""
+
+msgid "Product"
+msgstr ""
+
+msgid "Total"
+msgstr ""
+
+msgid "'Subtotal :"
+msgstr ""
+
+msgid "Payment method:"
+msgstr ""
+
+msgid "Total:"
+msgstr ""
+
+msgid "Billing address"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+
+msgid "Add Bank Details"
+msgstr ""
+
+msgid "Sorry, your nonce did not verify"
+msgstr ""
+
+msgid "Bank Account Name"
+msgstr ""
+
+msgid "Please enter your bank acccount name"
+msgstr ""
+
+msgid "Bank Account Number"
+msgstr ""
+
+msgid "Note : Please enter your bank account number"
+msgstr ""
+
+msgid "Name Of Bank"
+msgstr ""
+
+msgid "Please enter your name of bank:"
+msgstr ""
+
+msgid "Bank Address"
+msgstr ""
+
+msgid "Please enter your bank address"
+msgstr ""
+
+msgid "IFSC Code"
+msgstr ""
+
+msgid "Please enter your IFSC Code"
+msgstr ""
+
+msgid "UPI CODE"
+msgstr ""
+
+msgid "Please enter your UPI CODE "
+msgstr ""
+
+msgid "PAYTM NUMBER"
+msgstr ""
+
+msgid "Please enter your PAYTM NUMBER"
+msgstr ""
+
+msgid "GOOGLE PAY"
+msgstr ""
+
+msgid "Please enter your GOOGLE PAY"
+msgstr ""
+
+msgid "Submit"
+msgstr ""
+
+msgid "Insufficient Balance"
+msgstr ""
+
+msgid "Withdrawal Request"
+msgstr ""
+
+
+
+msgid "Withdrawal"
+msgstr ""
+
+msgid "Bank Account Details"
+msgstr ""
+
+msgid "Please Add Bank Account Details"
+msgstr ""
+
+msgid "Bank Account Name "
+msgstr ""
+
+msgid "Bank Account Number"
+msgstr ""
+
+msgid "Name Of Bank"
+msgstr ""
+
+msgid "Bank Address"
+msgstr ""
+
+msgid "IFSC Code"
+msgstr ""
+
+msgid "UPI CODE"
+msgstr ""
+
+msgid "PAYTM NUMBER
+msgstr ""
+
+msgid "GOOGLE PAY"
+msgstr 
+
+
+
+
+
+
+
+msgid "Withdrawal List Not Found"
+msgstr ""
+
+msgid "ID"
+msgstr ""
+
+msgid "Amount"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Date"
+msgstr ""
+
+msgid "Username"
+msgstr ""
+
+msgid "Amount"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Approve"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Request Details #"
+msgstr 
